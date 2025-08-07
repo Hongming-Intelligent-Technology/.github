@@ -4,7 +4,7 @@
 # 🐾 欢迎来到弘茗智能科技团队！
 
 <i>A group of furry university students passionate about programming, robotics, and innovation.</i><br>
-<i>一群热爱编程、机器人与创新的 Furry 风格大学生。</i>
+<i>一群热爱编程、机器人与创新的 Furry大学生。</i>
 
 ![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HongMing%20Furry%20Tech%20Team&fontSize=40&fontAlign=50&animation=twinkling)
 
