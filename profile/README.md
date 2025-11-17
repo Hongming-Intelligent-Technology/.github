@@ -1,82 +1,134 @@
 <div align="center">
 
-# 🐾 Welcome to HongMing Intelligent Technology Team!  
-# 🐾 欢迎来到弘茗智能科技团队！
+# 🐾 HongMing Intelligent Technology Team  
+### 🐾 弘茗智能科技团队
 
-<i>A group of furry university students passionate about programming, robotics, and innovation.</i><br>
-<i>一群热爱编程、机器人与创新的 Furry大学生。</i>
+**Innovating Robotics, Empowering Intelligence.**  
+**探索机器人智能，创造科技未来。**
 
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HongMing%20Furry%20Tech%20Team&fontSize=40&fontAlign=50&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HongMing%20Intelligent%20Tech&fontSize=40&fontAlign=50&animation=twinkling)
+
+</div>
 
 ---
 
-## 💡 About Us | 关于我们
+## 🔍 Who We Are | 团队简介
 
-**HongMing Intelligent Technology Team** is a student-led innovation group rooted in passion for technology, with the ambition to pursue Master's and PhD degrees in robotics and AI.
+**HongMing Intelligent Technology Team** is a university-based R&D group formed by students passionate about robotics, AI, and software engineering.  
+We focus on cutting-edge research and practical engineering innovation.
 
-我们是一个以热爱科技为核心的大学生创新团队，致力于机器人、人工智能等前沿方向的技术研究，未来希望攻读相关硕博学位。
+**弘茗智能科技团队**是一个由热爱机器人、人工智能与软件研发的大学生组成的研发团队，专注前沿技术研究与工程创新。
 
-**We build:**  
-我们正在研发：
+### 🎯 Our Research Areas | 研究方向
 
-- 🤖 Intelligent robotic systems (control, perception, path planning)  
-  智能机器人系统（控制、感知、路径规划）
+- 🤖 Robotic systems (control, perception, path planning)  
+  机器人系统（控制、感知、路径规划）
 
-- 🛠 Cross-platform IDEs and developer tools  
-  跨平台 IDE 和开发者工具
+- 🧠 Artificial Intelligence & Machine Learning  
+  人工智能与机器学习
 
-- 🌐 Full-stack smart management systems (Vue + Spring Boot)  
-  全栈式智能管理系统（Vue + Spring Boot）
+- 🛠 Software engineering & cross-platform development  
+  软件工程与跨平台应用开发
 
-- 🎓 Research-driven and engineering-grounded innovations  
-  以科研为导向，工程落地为目标
+- 🧪 Research innovation & open-source ecosystem  
+  科研创新与开源生态建设
+
+- 🎯 YOLO-based complex environment object detection  
+  基于 YOLO 的复杂环境目标识别
+
+- 🔊 Acoustic-based lightweight gaze & direction detection  
+  基于声学的轻量化视线与方向检测技术
+
+我们坚持科研严谨，同时保留社区文化特色——  
+**用温度推动冰冷技术向前。**  
+**We bring warmth to cold machines through innovation.**
 
 ---
 
 ## 🧠 Tech Stack | 技术栈
 
-### 🔤 Languages | 编程语言  
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,nodejs,javascript,php,powershell,latex,kotlin)
+### 🔤 Programming Languages | 编程语言
+<div align="center">
 
-### 🛠 Tools & Frameworks | 工具与框架  
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,qt,vue,spring,linux,mysql,cmake,maven,opencv,matlab,arduino,androidstudio,ros,anaconda,pytorch)
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,cs,java,javascript,nodejs,php,kotlin,latex)
 
----
+</div>
 
-## 🚀 Goals | 团队目标
+### 🛠 Tools & Frameworks | 工具与框架
+<div align="center">
 
-> *“Let fluffy souls give warmth to cold machines.”*  
-> *“让毛茸茸的灵魂赋予冰冷机械以温度。”*
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,qt,vue,spring,mysql,opencv,cmake,arduino,androidstudio,ros,anaconda,pytorch,matlab)
 
-- 🐍 Build our own cross-platform Python IDE: **CodeSnake**  
-  构建自主跨平台 Python IDE：**CodeSnake**
-
-- 💬 Develop a feature-rich full-stack online chat system  
-  开发功能完善的全栈在线聊天系统
-
-- 🏫 Build a new academic search platform  
-  构建新型的学术搜索平台
-
-- 🤖 Open-source our own robotics control framework  
-  推出自研机器人控制开源框架
+</div>
 
 ---
 
-## 📬 Contact | 联系我们
+## 🚀 Current Focus | 当前重点方向
 
-We welcome fellow Furries, tech enthusiasts, and researchers to join or collaborate with us!  
-我们欢迎 Furry 同好、技术爱好者与研究人员加入我们或展开合作！
+> *“Let intelligence carry warmth, and let creation carry meaning.”*  
+> *“让智能承载温度，让创造赋予意义。”*
 
-- 💌 Email | 邮箱: `lanyi_adict@outlook.com`
-- 🐾 Telegram / QQ Group: `3237874631`
-- 🌱 Internships & cooperation available | 欢迎实习与科研合作
+We are currently focusing on:
+
+我们目前专注于：
+
+- 🤖 Autonomous intelligent robotic systems  
+  自主机器人智能系统与应用
+
+- 🔍 Optimized YOLO detection for complex real-world environments  
+  面向复杂真实环境的 YOLO 检测优化与实现
+
+- 🔊 Acoustic-based lightweight gaze/direction detection  
+  基于声学的轻量化视线与方向检测方法
+
+- 🧱 Cross-platform tools, engineering infrastructure & software systems  
+  跨平台开发工具、工程基础设施与软件系统
+
+- 💡 New concept exploration & long-term technology reserves  
+  新想法探索与长期技术储备
+
+（Project showcase coming soon | 项目展示区待更新）
 
 ---
 
-<i>“Code, like fur, is our way of expressing love and creativity.”</i><br>
-<i>“代码与 Furry 一样，都是我们表达爱与创造力的方式。”</i>
+## 🌟 Vision & Philosophy | 团队愿景与理念
 
-<i>From the paws of innovation, we code the future.</i><br>
-<i>从 Furry 出发，走向智能的未来。</i>
+We believe that:
+
+我们相信：
+
+- Technology needs warmth  
+  科技需要温度
+
+- Engineering needs creativity  
+  工程需要创造力
+
+- Research needs perseverance  
+  研究需要坚持
+
+- Communities need culture  
+  社区需要文化
+
+**“Code, like fur, is our way of expressing love and creativity.”**  
+**“代码与 Furry 一样，都是我们表达爱与创造力的方式。”**
+
+---
+
+## 📬 Contact Us | 联系我们
+
+We welcome tech enthusiasts, researchers, and Furry friends to join or collaborate!
+
+我们欢迎技术爱好者、研究人员与 Furry 同好加入或合作！
+
+- 📧 Email | 邮箱: **lanyi_adict@outlook.com**  
+- 🐾 Telegram / QQ Group | 群组: **3237874631**  
+- 🤝 Internships & collaborations | 欢迎实习与科研合作
+
+---
+
+<div align="center">
+
+**From creativity to intelligence — we build the future together.**  
+**从热爱到智能，我们共同构筑未来。**
 
 </div>
